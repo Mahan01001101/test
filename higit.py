@@ -1,1 +1,1 @@
-print("Dorod bar TO")
+print("Dorod barr")
