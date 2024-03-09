@@ -1,1 +1,1 @@
-print("Dorod barr")
+x = 10
